@@ -1,0 +1,60 @@
+@media (max-width: 992px) {
+    .about-text {
+        width: 100% !important;
+    }
+    .about-text h6 {
+        margin-top: 0 !important;
+    }
+    .pricing-items .item {
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    .pricing-items .item h5{
+        font-size: 17px;
+        margin-top: 25px !important;
+    }
+    .about-1 .card {
+        margin-top: 95px !important;
+    }
+    .name {
+        margin-bottom: 15px;
+    }
+    .contact-text {
+        margin-top: 150px;
+    }
+}
+@media (max-width: 800px) {
+    .number-counter {
+        padding: 60px 0;
+    }
+}
+.number-counter .item {
+    margin-bottom: 30px;
+}
+@media (max-width: 768px) {
+    .slider-text {
+        margin-top: 27px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .about-text p{
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-size: 14px;
+    }
+    .about-text {
+        width: 100% !important;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .contact-text {
+        margin-top: 50px;
+        text-align: center;
+        margin-left: 0;
+    }
+}
+@media (max-width: 576px) {
+    .footer-text {
+        font-size: 13px;
+    }
+}
